@@ -1,2 +1,2 @@
 # photo
-photos
+photos: wechat miniprogramm, used to borwser photos.
